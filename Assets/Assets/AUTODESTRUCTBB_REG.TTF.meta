@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8ffe9a2b7c1665b4b8a8908a84c4c36b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Autodestruct BB
+  fontNames:
+  - Autodestruct BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a87120196d4f7a49b6fa09c151eee64, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
